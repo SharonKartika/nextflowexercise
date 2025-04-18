@@ -23,6 +23,7 @@ version 24.10.5 build 5935
 ```
 
 Package manager used is conda
+
 OS:
 ```
 ProductName:            macOS
